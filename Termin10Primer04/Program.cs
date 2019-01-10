@@ -15,7 +15,7 @@ namespace Termin10Primer04
 
         static void Metoda02()
         {
-            // Prazna metoda
+            Console.WriteLine(" E cao sta radis");
         }
 
         static void Metoda03()
